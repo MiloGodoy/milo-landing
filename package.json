@@ -1,0 +1,23 @@
+{
+  "name": "milo-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiloGodoy/milo-landing.git"
+  },
+  "keywords": [],
+  "author": "Ramiro Godoy <milogodoy@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiloGodoy/milo-landing/issues"
+  },
+  "homepage": "https://github.com/MiloGodoy/milo-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
